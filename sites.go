@@ -19,7 +19,6 @@ func main() {
 	showIntro()
 
 	for {
-
 		showMenu()
 		command := readCommand()
 		switch command {
