@@ -7,7 +7,6 @@
     ```go
         const numMonit = CHOOSE A NUMBER OF MONITORING
         const seg = CHOOSE SECONDS TO NEXT MONITORING
-        sites := []string{"INSERT THE SITES YOU WANNA MONITOR"}
 3. Open terminal and access the path you cloned the repository
 4. Run the app 
     ```go
